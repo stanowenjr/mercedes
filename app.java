@@ -6,3 +6,4 @@ merge is successful
 merge is successful
 .net applications 
 NodeJS applications
+python applications
